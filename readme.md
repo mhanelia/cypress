@@ -1,0 +1,1 @@
+Aulas de Cypress realizadas baseadas no curso do canal Agilizei (https://www.youtube.com/c/Agilizei/videos)
